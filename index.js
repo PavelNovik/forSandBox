@@ -43,3 +43,14 @@
 // console.log(double([1, 2, 10, 57]));
 
 /////////////////////////////////////////
+var kookaCounter = function (laughing) {
+  // Your code here!
+  return 0;
+};
+
+console.log('HahaHahaHaha'.split('a'));
+console.log('HahaHahaHaha'.split('a'));
+console.log('hahahahahaHaHaHa'.split('ha'));
+console.log('hahahahahaHaHaHa'.split('Ha'));
+console.log('HaHaHahahaHaHa'.split('Ha'));
+console.log('HaHaHahahaHaHa'.split('ha'));
