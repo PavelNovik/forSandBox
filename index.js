@@ -1,9 +1,10 @@
 // class Class {
-//   static getNumber(i) {
-//     i = 0.5;
-//     i *= 2;
+//   static number = 1;
 
-//     return 1 * i;
+//   static getNumber() {
+//     const currentVal = this.number;
+//     this.number *= 2;
+//     return currentVal;
 //   }
 // }
 // let varia = Class.getNumber();
@@ -31,3 +32,14 @@
 // console.log(sumDigits(99));
 // console.log(sumDigits(-994));
 // console.log(sumDigits(9));
+/////////////////////////////////////////
+
+// function double(array) {
+//   return array.map((i) => i * 2);
+// }
+
+// console.log(double([1, 2, 3, 4, 5]));
+// console.log(double([71, -548, 12.3, 31415]));
+// console.log(double([1, 2, 10, 57]));
+
+/////////////////////////////////////////
