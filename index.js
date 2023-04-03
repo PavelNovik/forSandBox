@@ -69,16 +69,21 @@ function realNumbers(n) {
   return counter;
 }
 
-console.log(realNumbers(5));
-console.log(realNumbers(10));
-console.log(realNumbers(20));
-console.log(realNumbers(30));
-console.log(realNumbers(40));
-console.log(realNumbers(55));
-console.log(realNumbers(66));
-console.log(realNumbers(75));
 console.log(realNumbers(100));
+console.log(realNumbers(200));
+console.log(realNumbers(300));
+console.log(realNumbers(400));
+console.log(realNumbers(500));
+console.log(realNumbers(600));
+console.log(realNumbers(700));
+console.log(realNumbers(800));
+console.log(realNumbers(900));
+console.log(realNumbers(1000));
+console.log(realNumbers(1100));
+console.log(realNumbers(2000));
+console.log(realNumbers(3000));
+console.log(realNumbers(4000));
 
-const myStr =
-  'FirstLine\n\t\\SecondLine\nThirdline\n\rFourLine\n\bFiveLine\n\fSixLine';
-console.log(myStr);
+// const myStr =
+//   'FirstLine\n\t\\SecondLine\nThirdline\n\rFourLine\n\bFiveLine\n\fSixLine';
+// console.log(myStr);
